@@ -1,5 +1,3 @@
-package tarefacvs;
-
 import java.util.Scanner;
 
 /**
@@ -19,7 +17,7 @@ public class TarefaCVS {
         }else{
             System.out.println("IMPAR");
         }
-        
+        System.out.println("Son David Cancela");
     }
     
 }
